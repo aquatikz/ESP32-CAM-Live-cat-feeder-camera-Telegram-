@@ -1,8 +1,20 @@
 ## What you’ll build
 
 •	ESP32-CAM + PIR (AM312 on 3.3 V)
+
 •	On motion: snap a photo → send to Telegram (push notification)
+
 •	Optional always-on live MJPEG at http://ESP_IP:81/stream (link included in the alert)
+
+________________________________________
+## Build of Materials (BOM)
+
+
+ AM312 Mini Pir Motion Sensor: [AMAZON](https://www.amazon.com/dp/B0CCF52DVJ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+ ESP32-CAM: [AMAZON](https://www.amazon.com/dp/B09TNVYSVJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+
+ 22 AWG Stranded Wire Spool 10ft Each 6 Colors: [AMAZON](https://www.amazon.com/Fermerry-Stranded-Electric-Tinned-Copper/dp/B089CQHRDT/ref=sr_1_7?crid=2GENFHF7JIZXV&dib=eyJ2IjoiMSJ9.0is0xfeGIMj9TEgcksIBU__3upOqDWw9vCr0v4yDcFRDGgmZIh1RfEGxmx4d443HDgl4IMoyuXUxpHALQKDp-1K0eGIxJ4EH8w8N8Pj-KbJEz-CJDrLwbgz1nGTmPmzijX-vbVDUp6xXD3q_Zj5xjALyq5J4ntEAe6ufCPcrNzUxzSio8D6bPpZ3VuGFt8i7iCednutWgk9cAbfnt5AHHO98HLYrDkQQ9zAiaW1ItYZUKL7NbeLfjSsMLimtzBwbisJn77dJqpmkNJTOFWcrDLIMxpECXdxRrNA4LefZqds.rm7lcU3G7UGXkiRdzdBRH6ZJoUXJM6NbYI6V_V0X__0&dib_tag=se&keywords=electronics%2Bwire&qid=1758568191&sprefix=electroics%2Bwi%2Caps%2C308&sr=8-7&th=1)
 
 ________________________________________
 ## 🔑 Setting Up Telegram Bot & Chat ID

@@ -186,9 +186,13 @@ ________________________________________
 •	USB-C/Micro-USB → ESP32-CAM (for power + flashing)
 •	PIR VCC → 3.3 V (AM312) | PIR GND → GND | PIR OUT → GPIO 13
 
-Use the deigram below:
+Use the deigram below (ignore my shoddy soldering job):
 
 ![ESP32-CAM wiring diagram](Diagram.jpg)
+
+![ESP32-CAM Wiring](IMG_1271.jpeg)
+
+![Motion Sensor](IMG_1272.jpeg)
 
 ________________________________________
 

@@ -25,7 +25,7 @@ This project uses **Telegram** to send motion alerts. Follow these steps careful
 
 ### 1. Create a Telegram Bot with BotFather
 
-1. Open the **Telegram app** (desktop or mobile).  
+1. Download and Open the **Telegram app** (desktop or mobile).  [Telegram download](https://desktop.telegram.org/)
 2. Search for [@BotFather](https://t.me/botfather) and start a chat.  
    > BotFather is the official tool provided by Telegram to create and manage bots.  
 3. Type the command:

@@ -4,7 +4,7 @@
 
 •	On motion: snap a photo → send to Telegram (push notification)
 
-•  All photos saved to SD-Card
+•  All photos saved to SD-Card to /catcam
 
 •	Optional always-on live MJPEG at http://ESP_IP:81/stream (link included in the alert)
 
@@ -154,7 +154,7 @@ Follow these steps to download the Arduino IDE, install the ESP32 board support,
    > If you’re using a USB-equipped ESP32-CAM board, select the correct variant if it appears.  
 2. Go to **Tools → Port** and select the COM port associated with your ESP32-CAM.  
 3. Set **Upload Speed** to `115200`.
-4. Install SD card - the SD Card is to store the photos after they are taken to a sibgle file.
+4. Install SD card - the SD Card is to store the photos after they are taken to a sibgle file to /catcam
 ---
 
 ### 5. Connect ESP32-CAM for Flashing

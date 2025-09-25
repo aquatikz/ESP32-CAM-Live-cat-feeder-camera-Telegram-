@@ -13,6 +13,8 @@ ________________________________________
  AM312 Mini Pir Motion Sensor: [AMAZON](https://www.amazon.com/dp/B0CCF52DVJ?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
  ESP32-CAM: [AMAZON](https://www.amazon.com/dp/B09TNVYSVJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+ 
+ SD-card: [AMAZON] (https://a.co/d/fI8UoBN)
 
  22 AWG Stranded Wire Spool 10ft Each 6 Colors: [AMAZON](https://www.amazon.com/Fermerry-Stranded-Electric-Tinned-Copper/dp/B089CQHRDT/ref=sr_1_7?crid=2GENFHF7JIZXV&dib=eyJ2IjoiMSJ9.0is0xfeGIMj9TEgcksIBU__3upOqDWw9vCr0v4yDcFRDGgmZIh1RfEGxmx4d443HDgl4IMoyuXUxpHALQKDp-1K0eGIxJ4EH8w8N8Pj-KbJEz-CJDrLwbgz1nGTmPmzijX-vbVDUp6xXD3q_Zj5xjALyq5J4ntEAe6ufCPcrNzUxzSio8D6bPpZ3VuGFt8i7iCednutWgk9cAbfnt5AHHO98HLYrDkQQ9zAiaW1ItYZUKL7NbeLfjSsMLimtzBwbisJn77dJqpmkNJTOFWcrDLIMxpECXdxRrNA4LefZqds.rm7lcU3G7UGXkiRdzdBRH6ZJoUXJM6NbYI6V_V0X__0&dib_tag=se&keywords=electronics%2Bwire&qid=1758568191&sprefix=electroics%2Bwi%2Caps%2C308&sr=8-7&th=1)
 
@@ -150,7 +152,7 @@ Follow these steps to download the Arduino IDE, install the ESP32 board support,
    > If you’re using a USB-equipped ESP32-CAM board, select the correct variant if it appears.  
 2. Go to **Tools → Port** and select the COM port associated with your ESP32-CAM.  
 3. Set **Upload Speed** to `115200`.
-
+4. Install SD card - the SD Card is to store the photos after they are taken to a sibgle file.
 ---
 
 ### 5. Connect ESP32-CAM for Flashing

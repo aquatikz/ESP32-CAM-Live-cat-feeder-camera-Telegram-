@@ -4,6 +4,8 @@
 
 •	On motion: snap a photo → send to Telegram (push notification)
 
+•  All photos saved to SD-Card
+
 •	Optional always-on live MJPEG at http://ESP_IP:81/stream (link included in the alert)
 
 ________________________________________
